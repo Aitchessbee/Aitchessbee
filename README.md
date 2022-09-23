@@ -1,4 +1,4 @@
-# Hi there! 👋
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!%F0%9F%91%8B%2C+I'm+Harsiddak;aka+Aitchessbee)](https://git.io/typing-svg)
 
 ## 💫 About Me:
 Hi, I am Harsiddak aka Aitchessbee! I am a 2nd year engineering student pursuing Btech in Computer Science. I am a tech enthusiast and am currently exploring different fields. <br><br>🔭 I’m currently working on Web Development<br>👯 I’m looking to collaborate on Web Development<br>🤝 I’m looking for help with Data structures and Algorithms<br>🌱 I’m currently learning MERN
