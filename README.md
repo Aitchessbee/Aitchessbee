@@ -20,6 +20,6 @@ I am a 2nd year engineering student pursuing Btech in Computer Science. I am a t
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitchessbee&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
-[![]((https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aitchessbee.Aitchessbee&color=44CC11))
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aitchessbee.Aitchessbee&color=44CC11)
 
 
