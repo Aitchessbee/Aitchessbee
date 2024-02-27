@@ -55,7 +55,4 @@ I am a 3rd year engineering student pursuing Btech in Computer Science. I am a t
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aitchessbee&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aitchessbee&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
----
-![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Aitchessbee.Aitchessbee)
-
 
